@@ -74,7 +74,10 @@ Displayed at the top of the dashboard:
 - **0%** MoM Improvement (no improvement vs. last month)
 
 These indicators give management a quick overview of financial risk.
-![Dashboad view] (https://github.com/Leussa-Code/Power-BI-Projects/blob/main/Debt%20Analysis%20dashboard.png)
+
+![ashboad view
+(https://github.com/Leussa-Code/Power-BI-Projects/blob/main/Debt%20Analysis%20dashboard.png)
+
 ### B. Unpaid Bills by Agency
 - Horizontal bar chart ranking agencies by unpaid bills count.
 - Agencies with the highest backlog are immediately visible for targeted follow-ups.
