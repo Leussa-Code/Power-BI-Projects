@@ -75,8 +75,6 @@ Displayed at the top of the dashboard:
 
 These indicators give management a quick overview of financial risk.
 
-!Dashboad view:
-(https://github.com/Leussa-Code/Power-BI-Projects/blob/main/Debt%20Analysis%20dashboard.png)
 
 ### B. Unpaid Bills by Agency
 - Horizontal bar chart ranking agencies by unpaid bills count.
